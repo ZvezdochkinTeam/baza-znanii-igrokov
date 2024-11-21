@@ -27,4 +27,5 @@ layout:
 
 
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th></tr></thead><tbody><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="files"></th></tr></thead><tbody><tr><td><strong>Последние новости</strong></td><td></td><td>Буквально последние задокументированные новости<br><br><a href="broken-reference">Посмотреть список изменений</a></td><td><a href="broken-reference">Broken link</a></td><td><a href=".gitbook/assets/032-news.png">032-news.png</a></td></tr><tr><td><strong>Правила</strong></td><td></td><td>Информация по правилам<br><br>Перейти к правилам<br></td><td></td><td><a href=".gitbook/assets/042-folder.png">042-folder.png</a></td></tr></tbody></table>
+
