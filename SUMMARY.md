@@ -2,6 +2,9 @@
 
 * [👋 Добро пожаловать!](README.md)
 
-## Group 1
+## 🗞️ Последние новости <a href="#last-changelogs" id="last-changelogs"></a>
 
-* [Page 1](group-1/page-1.md)
+* [👋 Последние новости](last-changelogs/poslednie-novosti.md)
+* [2024](last-changelogs/2024/README.md)
+  * [17.07.2024](last-changelogs/2024/17.07.2024.md)
+* [2025](last-changelogs/2025.md)
