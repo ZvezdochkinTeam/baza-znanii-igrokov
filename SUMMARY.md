@@ -13,13 +13,20 @@
 
 * [Ивенты](events/main.md)
 
+## 🪪 Заявки <a href="#applications" id="applications"></a>
+
+* [Заявки](applications/main.md)
+
 ## 🗒️ Плагины <a href="#plugins" id="plugins"></a>
 
 * [Плагины](plugins/main.md)
 * [🌍 Общий список](plugins/general.md)
 * [🟢 NonRP](plugins/nonrp.md)
-* [🟣 Classic](plugins/classic.md)
 * [🔴 MediumRP](plugins/mediumrp.md)
+
+## 🆕 Новичкам <a href="#newbies" id="newbies"></a>
+
+* [Новичкам](newbies/main.md)
 
 ## 🗞️ Последние новости <a href="#last-news" id="last-news"></a>
 
