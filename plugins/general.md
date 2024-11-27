@@ -19,13 +19,15 @@
 * **Динамическое отображение информации на экране интеркома**\
   Информация о состоянии боеголовки, о состоянии деконтаминации ЗЛС, живых сотрудниках Д-Класс и научных сотрудниках и т.д и т.п
 * **Общий голосовой чат у SCP**
-* **Голосовые реплики**
+* **Голосовые реплики**\
+  [Ссылка на документ](https://docs.google.com/document/d/1cW8t4Wy8s0ezmSLt3gnc7Tx7WDvEvpphXUHwtAgCXKU/edit#heading=h.4xnrxzy43kxn) или можно прочитать на вложенной странице ниже
 
 {% embed url="https://docs.google.com/document/d/1cW8t4Wy8s0ezmSLt3gnc7Tx7WDvEvpphXUHwtAgCXKU/edit#heading=h.4xnrxzy43kxn" %}
 Документ по голосовым репликам
 {% endembed %}
 
-* **Изменённая система подбора SCP**
+* **Изменённая система подбора SCP**\
+  &#x20;[Ссылка на документ](https://docs.google.com/document/d/1EtrD9j_D0gzaAtU6TPqSM27MjnPZGVatfCSFog7n1YY/edit) или можно прочитать на вложенной странице ниже
 
 {% embed url="https://docs.google.com/document/d/1EtrD9j_D0gzaAtU6TPqSM27MjnPZGVatfCSFog7n1YY/edit" %}
 Документ по системе подбора SCP

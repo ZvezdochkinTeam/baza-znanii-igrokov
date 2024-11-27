@@ -39,7 +39,8 @@
 * **Своя карта (MapEditorReborn)**\
   Камера SCP-035, камера SCP-012, переход из комнаты SCP-049 до Боеголовки, комната тяжелого арсенала
 * **Разнообразие донат-услуг**\
-  Дополнительные роли «Командир»‎, «Связист»‎ и «Шпион»‎
+  Дополнительные роли «Командир»‎, «Связист»‎ и «Шпион»‎\
+  [Ссылка на документ](https://docs.google.com/document/d/1yKABCtmIdKt78jm_rkbfQoxhAKLVRRltagroYD_rldE/edit#heading=h.pqrt81w04auw) или можно прочитать на вложенной странице ниже
 
 {% embed url="https://docs.google.com/document/d/1yKABCtmIdKt78jm_rkbfQoxhAKLVRRltagroYD_rldE/edit#heading=h.pqrt81w04auw" %}
 Описание донат-привилегий
