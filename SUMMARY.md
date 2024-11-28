@@ -27,6 +27,9 @@
 ## 🆕 Новичкам <a href="#newbies" id="newbies"></a>
 
 * [Новичкам](newbies/main.md)
+* [🌍 Общий список](newbies/obshii-spisok/README.md)
+  * [🎲 Система подбора SCP](newbies/obshii-spisok/sistema-podbora-scp.md)
+  * [🎙️ Голосовые реплики](newbies/obshii-spisok/golosovye-repliki.md)
 
 ## 🗞️ Последние новости <a href="#last-news" id="last-news"></a>
 
