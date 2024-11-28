@@ -14,7 +14,7 @@
 
 **Предпочтения спавна SCP** - пользовательская настройка в категории _“Прочее”_ (доступна как и в Главном Меню, так и в Esc-Меню)
 
-<figure><img src="../../.gitbook/assets/unnamed (1).png" alt=""><figcaption><p>Местоположение настройки предпочтений спавна SCP</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unnamed (1).png" alt=""><figcaption><p>Местоположение настройки "Предпочтения спавна SCP"</p></figcaption></figure>
 
 ## Положения работы оригинальной системы Northwood
 
@@ -44,7 +44,7 @@
 
 В настройках "Предпочтения спавна SCP" поставьте своего любимого SCP правее середины, а остальных SCP ставьте левее середины
 
-<figure><img src="../../.gitbook/assets/unnamed (2).png" alt=""><figcaption><p>SCP-079 на максимальном уровне предпочтений</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/unnamed (2).png" alt=""><figcaption><p>Предпочтения SCP-079 на максимальном уровне</p></figcaption></figure>
 
 ## У меня есть несколько любимых SCP, за которых я не против поиграть
 
