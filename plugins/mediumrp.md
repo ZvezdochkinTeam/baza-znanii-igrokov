@@ -37,3 +37,6 @@
 Эффект адреналина и эффект SCP-207
 {% endhint %}
 
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
