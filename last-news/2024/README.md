@@ -22,6 +22,7 @@ description: Задокументированные новости за 2024 г�
 | [28-noyabrya.md](28-noyabrya.md "mention") | Gitbook и правила Classic     |
 | [3-dekabrya.md](3-dekabrya.md "mention")   | Зима пришла                   |
 | [5-dekabrya.md](5-dekabrya.md "mention")   | Правила Classic               |
+| [10-dekabrya.md](10-dekabrya.md "mention") | Правила Classic               |
 
 {% content-ref url="broken-reference" %}
 [Broken link](broken-reference)

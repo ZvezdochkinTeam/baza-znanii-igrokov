@@ -51,4 +51,5 @@
   * [🍁 28 ноября](last-news/2024/28-noyabrya.md)
   * [❄️ 3 декабря](last-news/2024/3-dekabrya.md)
   * [❄️ 5 декабря](last-news/2024/5-dekabrya.md)
+  * [❄️ 10 декабря](last-news/2024/10-dekabrya.md)
 * [🐍 2025](last-news/2025.md)
