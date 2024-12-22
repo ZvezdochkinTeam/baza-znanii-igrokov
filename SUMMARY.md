@@ -13,7 +13,7 @@
 
 * [Ивенты](events/main.md)
 
-## 🪪 Заявки <a href="#applications" id="applications"></a>
+## 📮 Заявки <a href="#applications" id="applications"></a>
 
 * [Заявки](applications/main.md)
 
