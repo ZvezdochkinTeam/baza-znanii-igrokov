@@ -229,7 +229,7 @@
 
 ### 2.9 | <mark style="color:purple;">Конец раунда</mark>
 
-<mark style="background-color:yellow;">В конце раунда игрокам разрешено нарушать Общие Правила MediumRP, Описание Классов и их Обязанностей, РП-действия Medium RP, а также Список Багоюзов и Труднодоступные Места.</mark>
+В конце раунда игрокам разрешено нарушать [Общие Правила MediumRP](mediumrp.md#id-4.-obshie-pravila-medium-rp), [Описание Классов и их Обязанностей](mediumrp.md#id-6.-opisanie-klassov), [РП-действия Medium RP](mediumrp.md#id-9.-rp-deistviya), а также [Список Багоюзов ](mediumrp.md#obshii-spisok-bagoyuzov)и [Труднодоступные Места](mediumrp.md#id-8.-trudnodostupnye-nerealistichnye-mesta).
 
 ### 2.10 | <mark style="color:purple;">Работа администрации</mark>
 
