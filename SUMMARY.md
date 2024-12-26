@@ -5,7 +5,7 @@
 ## 🗂️ Правила <a href="#rules" id="rules"></a>
 
 * [Правила](rules/main.md)
-* [🌍 Общие правила](rules/general.md)
+* [🟢 NonRP](rules/nonrp.md)
 * [🟣 Classic](rules/classic.md)
 * [🔴 MediumRP](rules/mediumrp.md)
 
@@ -35,6 +35,7 @@
 
 * [Последние новости](last-news/main.md)
 * [🐉 2024](last-news/2024/README.md)
+  * [❄️ 26 декабря](last-news/2024/26-dekabrya.md)
   * [❄️ 22 декабря](last-news/2024/22-dekabrya.md)
   * [❄️ 10 декабря](last-news/2024/10-dekabrya.md)
   * [❄️ 5 декабря](last-news/2024/5-dekabrya.md)
