@@ -23,7 +23,7 @@ description: Исправления, правила Classic и правила Me
   * Исключения переписаны под посторонние звуки
   * Изменён срок наказания последней ступени
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>ПравилоC6 До</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="563"><figcaption><p>Правило C6 До</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (2).png" alt="" width="563"><figcaption><p>Правило C6 После</p></figcaption></figure>
 
