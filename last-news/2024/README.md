@@ -25,7 +25,3 @@ description: Задокументированные новости за 2024 г�
 | [07.10.2024.md](07.10.2024.md "mention")   | Translation update                              |
 | [26.07.2024.md](26.07.2024.md "mention")   | QOL update                                      |
 | [17.07.2024.md](17.07.2024.md "mention")   | Шестая годовщина проекта                        |
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}

@@ -240,7 +240,3 @@ cmdbind 268 .voicecommand GoRight
 **Добро пожаловать в команду, боец!**
 
 {% embed url="https://youtu.be/MY22ly7qDBA?si=DRW36e0MgO3ArIjv" %}
-
-{% content-ref url="golosovye-repliki.md" %}
-[golosovye-repliki.md](golosovye-repliki.md)
-{% endcontent-ref %}

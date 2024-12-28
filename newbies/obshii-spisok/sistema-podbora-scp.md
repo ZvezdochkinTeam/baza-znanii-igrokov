@@ -91,8 +91,4 @@
 
 <figure><img src="../../.gitbook/assets/unnamed (2) (1).png" alt=""><figcaption></figcaption></figure>
 
-{% content-ref url="../main.md" %}
-[main.md](../main.md)
-{% endcontent-ref %}
-
 [^1]: **Тикеты** - билетики, количество которых влияет на шанс спавна за команду SCP в раунде

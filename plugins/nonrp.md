@@ -45,7 +45,3 @@
 {% embed url="https://docs.google.com/document/d/1yKABCtmIdKt78jm_rkbfQoxhAKLVRRltagroYD_rldE/edit#heading=h.pqrt81w04auw" %}
 Описание донат-привилегий
 {% endembed %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
-{% endcontent-ref %}
