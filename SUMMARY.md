@@ -55,5 +55,5 @@
   * [🏖️ 26 июля](last-news/2024/26.07.2024.md)
   * [🏖️ 17 июля](last-news/2024/17.07.2024.md)
 * [🐍 2025](last-news/2025/README.md)
-  * [❄️ 11 января](last-news/2025/11-yanvarya.md)
   * [❄️ 1 февраля](last-news/2025/1-fevralya.md)
+  * [❄️ 11 января](last-news/2025/11-yanvarya.md)
