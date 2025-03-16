@@ -15,7 +15,7 @@
 
 ## 📮 Заявки <a href="#applications" id="applications"></a>
 
-* [Заявки](applications/main.md)
+* [Вакансии](applications/main.md)
 
 ## 🗒️ Плагины <a href="#plugins" id="plugins"></a>
 
