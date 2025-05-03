@@ -15,9 +15,9 @@ description: Правила Classic
    3. Новые исключения
    4. Изменены сроки наказания
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Старый вариант</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Старый вариант</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Новый вариант</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Новый вариант</p></figcaption></figure>
 
 1. Изменено правило [#c4.-neitralnye-klassy-i-bezoruzhnye-vragi](../../rules/classic.md#c4.-neitralnye-klassy-i-bezoruzhnye-vragi "mention")
    1. Убрано исключение, позволяющее убивать ПХ научных сотрудников без причины (это было сделано ещё 5 декабря)

@@ -28,9 +28,10 @@
 
 * [Новичкам](newbies/main.md)
 * [🌍 Общий список](newbies/obshii-spisok/README.md)
-  * [🎲 Система подбора SCP](newbies/obshii-spisok/sistema-podbora-scp.md)
+  * [🎲 Честный подбор SCP](newbies/obshii-spisok/sistema-podbora-scp.md)
   * [🎙️ Голосовые реплики](newbies/obshii-spisok/golosovye-repliki.md)
   * [🤨 Система против рейда](newbies/obshii-spisok/sistema-protiv-reida.md)
+  * [Server Specific Settings](newbies/obshii-spisok/server-specific-settings.md)
 
 ## 🗞️ Последние новости <a href="#last-news" id="last-news"></a>
 
@@ -56,6 +57,7 @@
   * [🏖️ 26 июля](last-news/2024/26.07.2024.md)
   * [🏖️ 17 июля](last-news/2024/17.07.2024.md)
 * [🐍 2025](last-news/2025/README.md)
+  * [🌿 4 мая](last-news/2025/4-maya.md)
   * [🌿 3 марта](last-news/2025/3-marta.md)
   * [❄️ 1 февраля](last-news/2025/1-fevralya.md)
   * [❄️ 11 января](last-news/2025/11-yanvarya.md)
