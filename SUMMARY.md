@@ -36,6 +36,11 @@
 ## 🗞️ Последние новости <a href="#last-news" id="last-news"></a>
 
 * [Последние новости](last-news/main.md)
+* [🐍 2025](last-news/2025/README.md)
+  * [🌿 4 мая](last-news/2025/4-maya.md)
+  * [🌿 3 марта](last-news/2025/3-marta.md)
+  * [❄️ 1 февраля](last-news/2025/1-fevralya.md)
+  * [❄️ 11 января](last-news/2025/11-yanvarya.md)
 * [🐉 2024](last-news/2024/README.md)
   * [❄️ 26 декабря](last-news/2024/26-dekabrya.md)
   * [❄️ 22 декабря](last-news/2024/22-dekabrya.md)
@@ -56,8 +61,3 @@
   * [🍁 7 октября](last-news/2024/07.10.2024.md)
   * [🏖️ 26 июля](last-news/2024/26.07.2024.md)
   * [🏖️ 17 июля](last-news/2024/17.07.2024.md)
-* [🐍 2025](last-news/2025/README.md)
-  * [🌿 4 мая](last-news/2025/4-maya.md)
-  * [🌿 3 марта](last-news/2025/3-marta.md)
-  * [❄️ 1 февраля](last-news/2025/1-fevralya.md)
-  * [❄️ 11 января](last-news/2025/11-yanvarya.md)
