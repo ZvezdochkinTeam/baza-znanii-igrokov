@@ -13,7 +13,7 @@ description: Исправления, правила Classic и правила Me
 * Исправлен баг с невозможностью побега у некоторых классов
 * При подрыве боеголовки снимается блокировка с двери [`ESCAPE_FINAL`](#user-content-fn-1)[^1]
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1).png" alt="" width="375"><figcaption><p>Дверь ESCAPE_FINAL</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="375"><figcaption><p>Дверь ESCAPE_FINAL</p></figcaption></figure>
 
 ## Правила Classic
 
@@ -23,18 +23,18 @@ description: Исправления, правила Classic и правила Me
   * Исключения переписаны под посторонние звуки
   * Изменён срок наказания последней ступени
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Правило C6 До</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Правило C6 До</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Правило C6 После</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1) (1) (1) (1).png" alt="" width="563"><figcaption><p>Правило C6 После</p></figcaption></figure>
 
 * Правило C7
   * Добавлено описание про "поддержку взглядов и идеологий, подразумевающих проявление ненависти или нетерпимости ..."
   * Исключения переписаны под [личные оскорбления](#user-content-fn-2)[^2]
   * Изменён срок наказания второй ступени
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt="" width="563"><figcaption><p>Правило C7 До</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt="" width="563"><figcaption><p>Правило C7 До</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt="" width="563"><figcaption><p>Правило C7 После</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt="" width="563"><figcaption><p>Правило C7 После</p></figcaption></figure>
 
 * Добавлены 3 новых правила
   * [#c9.-obman-i-pomekha-rabote-administracii](../../rules/classic.md#c9.-obman-i-pomekha-rabote-administracii "mention")
