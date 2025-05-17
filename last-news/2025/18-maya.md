@@ -36,7 +36,7 @@ coverY: 0
    1. Очистка по времени более не затрагивает предметы в карманном измерении SCP-106
 4. Дополнена информация в [sistema-podbora-scp.md](../../newbies/obshii-spisok/sistema-podbora-scp.md "mention")
    1. Добавился новый пункт про "несправедливое снятие тикетов" в [#polozheniya-raboty-originalnoi-sistemy-northwood](../../newbies/obshii-spisok/sistema-podbora-scp.md#polozheniya-raboty-originalnoi-sistemy-northwood "mention") и в [#polozheniya-raboty-novoi-sistemy](../../newbies/obshii-spisok/sistema-podbora-scp.md#polozheniya-raboty-novoi-sistemy "mention")
-5. Какая-то оптимизация, бла бла бла и другая не нужная вам информация
+5. Какая-то оптимизация, бла бла бла и другая ненужная вам информация
 
 {% embed url="https://youtu.be/w_RCz8Ypfok?si=oFFZIUkuGZ2qlz0N" %}
 Демонстрация изменений
@@ -44,4 +44,4 @@ coverY: 0
 
 [^1]: Система делает эту проверку раз в 3 секунды, так что нет гарантий, что в последние 3 секунды до начала раунда результат не изменится
 
-[^2]: Только если ваша предварительная роль, относится к команде SCP, и если кроме вас есть другие игроки, которые предварительно появятся за SCP
+[^2]: Роли отображаются только тогда, когда ваша предварительная роль относится к команде SCP и кроме вас есть другие игроки, которые предварительно появятся за SCP
