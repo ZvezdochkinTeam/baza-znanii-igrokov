@@ -28,15 +28,19 @@
 
 * [Новичкам](newbies/main.md)
 * [🌍 Общий список](newbies/obshii-spisok/README.md)
+  * [Server Specific Settings](newbies/obshii-spisok/server-specific-settings.md)
+  * [📢 Автоматические оповещения](newbies/obshii-spisok/avtomaticheskie-opovesheniya.md)
+  * [⏸️ Динамичное лобби](newbies/obshii-spisok/dinamichnoe-lobbi.md)
+  * [Динамичный список игроков](newbies/obshii-spisok/dinamichnyi-spisok-igrokov.md)
   * [🎲 Честный подбор SCP](newbies/obshii-spisok/sistema-podbora-scp.md)
   * [🎙️ Голосовые реплики](newbies/obshii-spisok/golosovye-repliki.md)
   * [🤨 Система против рейда](newbies/obshii-spisok/sistema-protiv-reida.md)
-  * [Server Specific Settings](newbies/obshii-spisok/server-specific-settings.md)
 
 ## 🗞️ Последние новости <a href="#last-news" id="last-news"></a>
 
 * [Последние новости](last-news/main.md)
 * [🐍 2025](last-news/2025/README.md)
+  * [🌿 21 мая](last-news/2025/21-maya.md)
   * [🌿 18 мая](last-news/2025/18-maya.md)
   * [🌿 4 мая](last-news/2025/4-maya.md)
   * [🌿 3 марта](last-news/2025/3-marta.md)
