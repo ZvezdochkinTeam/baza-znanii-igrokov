@@ -18,5 +18,9 @@ description: Плагины, действующие на всех сервера
 * **Система против AFK**
 * **Автоматические оповещения**\
   [avtomaticheskie-opovesheniya.md](../newbies/obshii-spisok/avtomaticheskie-opovesheniya.md "mention")
+* **Возможность выводить через зону побега связанных МОГ и ПХ**
 * **Прочие QOL изменения**
   * Включение урона по союзникам в конце раунда
+  * Реалистичная гравитация у трупов
+  * При воскрешении SCP-049-2 появляется на месте SCP-049, который его воскресил
+  * Настройка в [server-specific-settings.md](../newbies/obshii-spisok/server-specific-settings.md "mention") "Синий фильтр SCP-079"

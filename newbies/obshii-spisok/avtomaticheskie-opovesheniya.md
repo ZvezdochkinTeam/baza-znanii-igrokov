@@ -22,10 +22,10 @@ coverY: 0
 
 Да, эти оповещения можно отключить через [server-specific-settings.md](server-specific-settings.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>Местоположение настроек</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Местоположение настроек</p></figcaption></figure>
 
 ## Можно ли настроить или отключить оповещения о последних новостях ?
 
 Да, в [server-specific-settings.md](server-specific-settings.md "mention") для этого есть настройка "Оповещение о последних новостях", где можно изменить режим отображения оповещения о последних новостях. С помощью кнопки "Удалить данные о себе" можно удалить запись о себе из закрытой базы данных.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Местоположение этих 2-х настроек</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Местоположение этих 2-х настроек</p></figcaption></figure>
