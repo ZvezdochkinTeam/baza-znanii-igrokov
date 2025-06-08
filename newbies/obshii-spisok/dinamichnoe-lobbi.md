@@ -18,13 +18,13 @@ coverY: 0
 * [Причина появления за предварительную роль](#user-content-fn-2)[^2]
 * [Возможные роли союзных SCP](#user-content-fn-3)[^3]
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Пример отображения</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Пример отображения</p></figcaption></figure>
 
 ## Можно ли отключить отображение этой подсказки ?
 
 Да, отображение этой подсказки можно отключить через [server-specific-settings.md](server-specific-settings.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>Местоположение настройки</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1).png" alt=""><figcaption><p>Местоположение настройки</p></figcaption></figure>
 
 ## Можно ли настроить под себя эту подсказку ?
 
@@ -33,7 +33,7 @@ coverY: 0
 * Выравнивание текста
 * Размер текста
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Местоположение настроек</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Местоположение настроек</p></figcaption></figure>
 
 [^1]: Система делает эту проверку раз в 1 секунду.
 

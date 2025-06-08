@@ -8,6 +8,7 @@ coverY: 0
 
 | Дата и ссылка                              | Название                             |
 | ------------------------------------------ | ------------------------------------ |
+| [8-iyunya.md](8-iyunya.md "mention")       | Heavy Patch                          |
 | [30-maya.md](30-maya.md "mention")         | Quality of life                      |
 | [29-maya.md](29-maya.md "mention")         | Внутриигровые уведомления о новостях |
 | [21-maya.md](21-maya.md "mention")         | Баг-репорты и новые статьи           |

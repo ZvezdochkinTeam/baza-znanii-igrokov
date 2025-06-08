@@ -40,6 +40,7 @@
 
 * [Последние новости](last-news/main.md)
 * [🐍 2025](last-news/2025/README.md)
+  * [🏖️ 8 июня](last-news/2025/8-iyunya.md)
   * [🌿 30 мая](last-news/2025/30-maya.md)
   * [🌿 29 мая](last-news/2025/29-maya.md)
   * [🌿 21 мая](last-news/2025/21-maya.md)

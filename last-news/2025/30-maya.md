@@ -15,8 +15,8 @@ coverY: 0
    3. Добавлена новая настройка [server-specific-settings.md](../../newbies/obshii-spisok/server-specific-settings.md "mention") "Синий фильтр SCP-079"\
       Эта настройка позволяет отключить или включить контрастный синий фильтр у SCP-079
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Местоположение настройки</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (27).png" alt=""><figcaption><p>Местоположение настройки</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>С включенным синим фильтром</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>С включенным синим фильтром</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption><p>С выключенным синим фильтром</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption><p>С выключенным синим фильтром</p></figcaption></figure>

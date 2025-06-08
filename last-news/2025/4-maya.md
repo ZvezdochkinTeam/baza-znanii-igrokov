@@ -36,13 +36,13 @@ coverY: 0
        [#kak-stat-scp-3114](../../newbies/obshii-spisok/sistema-podbora-scp.md#kak-stat-scp-3114 "mention")\
 
 
-       <figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Местонахождение этого ползунка</p></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (8) (1) (1).png" alt=""><figcaption><p>Местонахождение этого ползунка</p></figcaption></figure>
 2. Изменения системы _"Автоматические оповещения"_
    1.  Добавлены 4 переключателя в настройки  в категории _"Server-Specific"_ для отключения/включения индивидуальных оповещений\
 
 
 
 
-       <figure><img src="../../.gitbook/assets/image (7) (1).png" alt=""><figcaption><p>Местонахождение этих 4-х переключателей</p></figcaption></figure>
+       <figure><img src="../../.gitbook/assets/image (7) (1) (1).png" alt=""><figcaption><p>Местонахождение этих 4-х переключателей</p></figcaption></figure>
 3. Обновлены картинки и информация в [main.md](../../newbies/main.md "mention")
    1. Добавлен новый гайд [server-specific-settings.md](../../newbies/obshii-spisok/server-specific-settings.md "mention")

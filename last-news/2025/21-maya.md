@@ -13,7 +13,7 @@ coverY: 0
    2. Убрана верхняя ссылка на БЗИК
    3. Появилась новая ссылка для баг-репортов [_"🐛 Сообщить о проблеме"_](https://docs.google.com/forms/d/e/1FAIpQLSf7Gyi9396A77fke8Sp8XXj66LooBRRPsUDHg97oCUhG32WnQ/viewform)
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Местоположение этой ссылки</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (1).png" alt=""><figcaption><p>Местоположение этой ссылки</p></figcaption></figure>
 
 2. Изменения в [obshii-spisok](../../newbies/obshii-spisok/ "mention")
    1. Добавлены 3 новые статьи
