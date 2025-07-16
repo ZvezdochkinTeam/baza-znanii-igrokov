@@ -13,10 +13,6 @@
 
 * [Ивенты](events/main.md)
 
-## 📮 Вакансии <a href="#applications" id="applications"></a>
-
-* [Заявки](applications/main.md)
-
 ## 🗒️ Плагины <a href="#plugins" id="plugins"></a>
 
 * [Плагины](plugins/main.md)
