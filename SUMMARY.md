@@ -5,7 +5,6 @@
 ## 🗂️ Правила <a href="#rules" id="rules"></a>
 
 * [Правила](rules/main.md)
-* [🟢 NonRP](rules/nonrp.md)
 * [🟣 Classic](rules/classic.md)
 * [🔴 MediumRP](rules/mediumrp.md)
 
@@ -17,7 +16,6 @@
 
 * [Плагины](plugins/main.md)
 * [🌍 Общий список](plugins/general.md)
-* [🟢 NonRP](plugins/nonrp.md)
 * [🔴 MediumRP](plugins/mediumrp.md)
 
 ## 🆕 Новичкам <a href="#newbies" id="newbies"></a>
