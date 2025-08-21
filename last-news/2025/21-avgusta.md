@@ -126,6 +126,8 @@ description: Опытное обновление
 
 <figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>Новый интерфейс в игре</p></figcaption></figure>
 
+### Кастомизация
+
 Вы можете настроить внешний вид этого интерфейса в пользовательских настройках ([server-specific-settings.md](../../newbies/obshii-spisok/server-specific-settings.md "mention"))
 
 <figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Настройки внешнего вида интерфейса игрока</p></figcaption></figure>

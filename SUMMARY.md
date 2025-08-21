@@ -29,6 +29,8 @@
   * [🎲 Честный подбор SCP](newbies/obshii-spisok/sistema-podbora-scp.md)
   * [🎙️ Голосовые реплики](newbies/obshii-spisok/golosovye-repliki.md)
   * [🤨 Система против рейда](newbies/obshii-spisok/sistema-protiv-reida.md)
+  * [💻 Синхронизация аккаунтов](newbies/obshii-spisok/sinkhronizaciya-akkauntov.md)
+  * [🎪 Система прогрессии](newbies/obshii-spisok/sistema-progressii.md)
 
 ## 🗞️ Последние новости <a href="#last-news" id="last-news"></a>
 
