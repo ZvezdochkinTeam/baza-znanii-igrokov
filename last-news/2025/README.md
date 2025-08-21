@@ -8,6 +8,7 @@ coverY: 0
 
 | Дата и ссылка                              | Название                             |
 | ------------------------------------------ | ------------------------------------ |
+| [21-avgusta.md](21-avgusta.md "mention")   | Опытное обновление                   |
 | [1-iyulya.md](1-iyulya.md "mention")       | Правила Classic                      |
 | [8-iyunya.md](8-iyunya.md "mention")       | Heavy Patch                          |
 | [30-maya.md](30-maya.md "mention")         | Quality of life                      |

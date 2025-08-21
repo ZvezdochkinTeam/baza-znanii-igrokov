@@ -29,11 +29,14 @@
   * [🎲 Честный подбор SCP](newbies/obshii-spisok/sistema-podbora-scp.md)
   * [🎙️ Голосовые реплики](newbies/obshii-spisok/golosovye-repliki.md)
   * [🤨 Система против рейда](newbies/obshii-spisok/sistema-protiv-reida.md)
+  * [💻 Синхронизация аккаунтов](newbies/obshii-spisok/sinkhronizaciya-akkauntov.md)
+  * [🎪 Система прогрессии](newbies/obshii-spisok/sistema-progressii.md)
 
 ## 🗞️ Последние новости <a href="#last-news" id="last-news"></a>
 
 * [Последние новости](last-news/main.md)
 * [🐍 2025](last-news/2025/README.md)
+  * [⛱️ 21 августа](last-news/2025/21-avgusta.md)
   * [🏖️ 1 июля](last-news/2025/1-iyulya.md)
   * [🏖️ 8 июня](last-news/2025/8-iyunya.md)
   * [🌿 30 мая](last-news/2025/30-maya.md)
