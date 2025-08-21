@@ -10,13 +10,12 @@ coverY: 0
 
 ## Общие изменения
 
-1. &#x20;Добавлены 4 новые настройки в [server-specific-settings.md](../../newbies/obshii-spisok/server-specific-settings.md "mention")\
+1. Добавлены 4 новые настройки в [server-specific-settings.md](../../newbies/obshii-spisok/server-specific-settings.md "mention")\
    \
    Неуязвимость = GodMode\
-   Временная неуязвимость = [Spawn Protection](#user-content-fn-1)[^1]\
+   Временная неуязвимость = [Spawn Protection](#user-content-fn-1)[^1]\\
 
-
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption><p>Местоположение этих настроек</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>Местоположение этих настроек</p></figcaption></figure>
 
 2. Возвращён плагин **"Расширенный Войс"**
    1. Возвращён общий голосовой чат у SCP
@@ -26,10 +25,10 @@ coverY: 0
    1. На слайде **"Рекордсмены Раунда"** добавлен новый пункт **"Топ SCP по впитанному урону"**
    2. На слайде **"Случайные Факты"** вместо общих серверных достижений теперь показываются персональные достижения (кол-во прыжков, шумных действий, выстрелов и т.д.)
    3. Невыполненные достижения теперь не показываются (вместо них стоит пропуск)
-   4. Появился небольшой рандомайзер названий пунктов \
+   4. Появился небольшой рандомайзер названий пунктов\
       (особенно заметно на слайде **"Случайные Факты"**)
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Пример достижений на слайде "Случайные Факты"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Пример достижений на слайде "Случайные Факты"</p></figcaption></figure>
 
 4. Время ожидания игроков в лобби ожидания увеличено до 30 секунд (ранее 20 секунд)
 5. Максимальное время возможности появления опоздавших игроков за людей сокращено до 30 секунд от начала раунда (ранее 45 секунд от начала раунда)
@@ -64,21 +63,21 @@ coverY: 0
       \
       [Видео с демонстрацией](https://drive.google.com/file/d/1neZmhtajm35qR8MrW1UATcIFWWt5kXrm/view?usp=sharing)
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption><p>SCP-173</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>SCP-173</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>SCP-914</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (2).png" alt=""><figcaption><p>SCP-914</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>SCP-330</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (2).png" alt=""><figcaption><p>SCP-330</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption><p>Micro H.I.D.</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (2).png" alt=""><figcaption><p>Micro H.I.D.</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt=""><figcaption><p>SCP-127</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (7) (2).png" alt=""><figcaption><p>SCP-127</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption><p>Система Аварийного Перезапуска</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (8) (2).png" alt=""><figcaption><p>Система Аварийного Перезапуска</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption><p>Боеголовка</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (9) (1).png" alt=""><figcaption><p>Боеголовка</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (10).png" alt=""><figcaption><p>SCP-106</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10) (1).png" alt=""><figcaption><p>SCP-106</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (11).png" alt=""><figcaption><p>SCP-096</p></figcaption></figure>
 
@@ -102,7 +101,7 @@ coverY: 0
    3. Добавлено ограничение на использование лифта с внутренней стороны
    4. Как всегда, исключением для этой системы являются лифты боеголовки в ЗТС
 5. Изменения в системе ограничения выносливости у людей при тяжелом ранении
-   1. Вместо полного сброса выносливости теперь выдаётся эффект **"Exhausted"** \
+   1. Вместо полного сброса выносливости теперь выдаётся эффект **"Exhausted"**\
       (урезание максимальной выносливости в 2 раза и замедление регенерации выносливости)
 6. Изменён текст подсказок у большинства систем / модулей
 
@@ -119,8 +118,6 @@ coverY: 0
 <figure><img src="../../.gitbook/assets/image (23).png" alt=""><figcaption><p>Подсказка при достижении лимита на связанных игроков</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/image (24).png" alt=""><figcaption><p>Ох и зря я туда полез</p></figcaption></figure>
-
-
 
 А на этом всё :)
 
