@@ -8,6 +8,7 @@ coverY: 0
 
 | Дата и ссылка                              | Название                             |
 | ------------------------------------------ | ------------------------------------ |
+| [22-avgusta.md](22-avgusta.md "mention")   | Хотфикс для системы прогрессии       |
 | [21-avgusta.md](21-avgusta.md "mention")   | Опытное обновление                   |
 | [1-iyulya.md](1-iyulya.md "mention")       | Правила Classic                      |
 | [8-iyunya.md](8-iyunya.md "mention")       | Heavy Patch                          |
