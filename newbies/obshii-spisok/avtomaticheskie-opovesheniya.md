@@ -28,4 +28,4 @@ coverY: 0
 
 Да, в [server-specific-settings.md](server-specific-settings.md "mention") для этого есть настройка "Оповещение о последних новостях", где можно изменить режим отображения оповещения о последних новостях. С помощью кнопки "Удалить данные о себе" можно удалить запись о себе из закрытой базы данных.
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Местоположение этих 2-х настроек</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Местоположение этих 2-х настроек</p></figcaption></figure>
