@@ -27,6 +27,7 @@
   * [⏸️ Динамичное лобби](newbies/obshii-spisok/dinamichnoe-lobbi.md)
   * [Динамичный список игроков](newbies/obshii-spisok/dinamichnyi-spisok-igrokov.md)
   * [🎲 Честный подбор SCP](newbies/obshii-spisok/sistema-podbora-scp.md)
+  * [🎮 Качество игры](newbies/obshii-spisok/kachestvo-igry.md)
   * [🎙️ Голосовые реплики](newbies/obshii-spisok/golosovye-repliki.md)
   * [🤨 Система против рейда](newbies/obshii-spisok/sistema-protiv-reida.md)
   * [💻 Синхронизация аккаунтов](newbies/obshii-spisok/sinkhronizaciya-akkauntov.md)
@@ -36,6 +37,7 @@
 
 * [Последние новости](last-news/main.md)
 * [🐍 2025](last-news/2025/README.md)
+  * [🍁 12 октября](last-news/2025/12-oktyabrya.md)
   * [🍁 18 сентября](last-news/2025/18-sentyabrya.md)
   * [⛱️ 28 августа](last-news/2025/28-avgusta.md)
   * [⛱️ 22 августа](last-news/2025/22-avgusta.md)

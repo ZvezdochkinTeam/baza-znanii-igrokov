@@ -8,6 +8,7 @@ coverY: 0
 
 | Дата и ссылка                                  | Название                             |
 | ---------------------------------------------- | ------------------------------------ |
+| [12-oktyabrya.md](12-oktyabrya.md "mention")   | Сладости и гадости                   |
 | [18-sentyabrya.md](18-sentyabrya.md "mention") | 14.1.4 и правила Classic             |
 | [28-avgusta.md](28-avgusta.md "mention")       | Ребаланс системы прогрессии          |
 | [22-avgusta.md](22-avgusta.md "mention")       | Хотфикс для системы прогрессии       |
