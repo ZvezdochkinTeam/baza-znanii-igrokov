@@ -6,20 +6,4 @@ coverY: 0
 
 # 🐍 2025
 
-| Дата и ссылка                                  | Название                             |
-| ---------------------------------------------- | ------------------------------------ |
-| [12-oktyabrya.md](12-oktyabrya.md "mention")   | Сладости и гадости                   |
-| [18-sentyabrya.md](18-sentyabrya.md "mention") | 14.1.4 и правила Classic             |
-| [28-avgusta.md](28-avgusta.md "mention")       | Ребаланс системы прогрессии          |
-| [22-avgusta.md](22-avgusta.md "mention")       | Хотфикс для системы прогрессии       |
-| [21-avgusta.md](21-avgusta.md "mention")       | Опытное обновление                   |
-| [1-iyulya.md](1-iyulya.md "mention")           | Правила Classic                      |
-| [8-iyunya.md](8-iyunya.md "mention")           | Heavy Patch                          |
-| [30-maya.md](30-maya.md "mention")             | Quality of life                      |
-| [29-maya.md](29-maya.md "mention")             | Внутриигровые уведомления о новостях |
-| [21-maya.md](21-maya.md "mention")             | Баг-репорты и новые статьи           |
-| [18-maya.md](18-maya.md "mention")             | Обновление 14.1 уже совсем близко    |
-| [4-maya.md](4-maya.md "mention")               | Переход на 14.1                      |
-| [3-marta.md](3-marta.md "mention")             | Урон по союзникам                    |
-| [1-fevralya.md](1-fevralya.md "mention")       | Правила Classic                      |
-| [11-yanvarya.md](11-yanvarya.md "mention")     | Правила Classic                      |
+<table><thead><tr><th width="379">Дата и ссылка</th><th>Название</th></tr></thead><tbody><tr><td><a data-mention href="1-iyulya.md">1-iyulya.md</a></td><td>Правила Classic </td></tr><tr><td><a data-mention href="12-oktyabrya.md">12-oktyabrya.md</a></td><td>Сладости и гадости</td></tr><tr><td><a data-mention href="18-sentyabrya.md">18-sentyabrya.md</a></td><td>14.1.4 и правила Classic</td></tr><tr><td><a data-mention href="28-avgusta.md">28-avgusta.md</a></td><td>Ребаланс системы прогрессии</td></tr><tr><td><a data-mention href="22-avgusta.md">22-avgusta.md</a></td><td>Хотфикс для системы прогрессии</td></tr><tr><td><a data-mention href="21-avgusta.md">21-avgusta.md</a></td><td>Опытное обновление</td></tr><tr><td><a data-mention href="1-iyulya-1.md">1-iyulya-1.md</a></td><td>Правила Classic</td></tr><tr><td><a data-mention href="8-iyunya.md">8-iyunya.md</a></td><td>Heavy Patch</td></tr><tr><td><a data-mention href="30-maya.md">30-maya.md</a></td><td>Quality of life</td></tr><tr><td><a data-mention href="29-maya.md">29-maya.md</a></td><td>Внутриигровые уведомления о новостях</td></tr><tr><td><a data-mention href="21-maya.md">21-maya.md</a></td><td>Баг-репорты и новые статьи</td></tr><tr><td><a data-mention href="18-maya.md">18-maya.md</a></td><td>Обновление 14.1 уже совсем близко</td></tr><tr><td><a data-mention href="4-maya.md">4-maya.md</a></td><td>Переход на 14.1</td></tr><tr><td><a data-mention href="3-marta.md">3-marta.md</a></td><td>Урон по союзникам</td></tr><tr><td><a data-mention href="1-fevralya.md">1-fevralya.md</a></td><td>Правила Classic</td></tr><tr><td><a data-mention href="11-yanvarya.md">11-yanvarya.md</a></td><td>Правила Classic</td></tr></tbody></table>
