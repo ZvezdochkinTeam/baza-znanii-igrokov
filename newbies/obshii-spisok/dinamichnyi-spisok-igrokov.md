@@ -21,7 +21,7 @@ coverY: 0
 * Тикрейт[^1]
 * [Состояние сервера](#user-content-fn-2)[^2]
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Пример отображения со стандартным шаблоном</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Пример отображения со стандартным шаблоном</p></figcaption></figure>
 
 ## Можно ли настроить под себя это название ?
 
@@ -30,7 +30,7 @@ coverY: 0
 * Шаблон списка игроков
 * Размер текста
 
-<figure><img src="../../.gitbook/assets/image (6) (1).png" alt=""><figcaption><p>Местоположение настроек</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption><p>Местоположение настроек</p></figcaption></figure>
 
 [^1]: FPS сервера или количество обновлений в секунду
 

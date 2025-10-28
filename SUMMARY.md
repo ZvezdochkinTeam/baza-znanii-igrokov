@@ -32,11 +32,13 @@
   * [🤨 Система против рейда](newbies/obshii-spisok/sistema-protiv-reida.md)
   * [💻 Синхронизация аккаунтов](newbies/obshii-spisok/sinkhronizaciya-akkauntov.md)
   * [🎪 Система прогрессии](newbies/obshii-spisok/sistema-progressii.md)
+  * [🎃 Хэллоуин](newbies/obshii-spisok/khellouin.md)
 
 ## 🗞️ Последние новости <a href="#last-news" id="last-news"></a>
 
 * [Последние новости](last-news/main.md)
 * [🐍 2025](last-news/2025/README.md)
+  * [🍁 28 октября](last-news/2025/28-oktyabrya.md)
   * [🍁 25 октября](last-news/2025/1-iyulya.md)
   * [🍁 12 октября](last-news/2025/12-oktyabrya.md)
   * [🍁 18 сентября](last-news/2025/18-sentyabrya.md)

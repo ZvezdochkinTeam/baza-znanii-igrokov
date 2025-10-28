@@ -28,7 +28,7 @@ description: Опытное обновление
 
 После выполнения команды вы получите подробную инструкцию: вам потребуется зайти на указанный сервер и выполнить команду `.syncaccount <код>` в консоли клиента (\~).
 
-<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption><p>Пример использования команды /sync-account</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Пример использования команды /sync-account</p></figcaption></figure>
 
 Если все сделано верно, в ответ на внутриигровую команду вы получите сообщение об успешной привязке аккаунта.
 
@@ -99,7 +99,7 @@ description: Опытное обновление
 
 Ваш уровень и разряд отображаются прямо в никнейме и видны другим игрокам. Разряд отображается римскими цифрами после уровня.
 
-<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Визуальное отображение в игре</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1) (1).png" alt=""><figcaption><p>Визуальное отображение в игре</p></figcaption></figure>
 
 ## Внутриигровая статистика
 
@@ -116,7 +116,7 @@ description: Опытное обновление
 
 Чтобы получить данные о своей статистике, необходимо выполнить команду `/stats` одного из серверных ботов. Бот будет отображать актуальную информацию о сервере, к которому он привязан.
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption><p>Пример использования команды /stats</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Пример использования команды /stats</p></figcaption></figure>
 
 ## Интерфейс игрока
 
@@ -130,4 +130,4 @@ description: Опытное обновление
 
 Вы можете настроить внешний вид этого интерфейса в пользовательских настройках ([server-specific-settings.md](../../newbies/obshii-spisok/server-specific-settings.md "mention"))
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Настройки внешнего вида интерфейса игрока</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Настройки внешнего вида интерфейса игрока</p></figcaption></figure>

@@ -13,4 +13,4 @@ coverY: 0
 * Оповещение о последних новостях
 * Удалить данные о себе
 
-<figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption><p>Местоположение этих 2-х настроек</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1).png" alt=""><figcaption><p>Местоположение этих 2-х настроек</p></figcaption></figure>
