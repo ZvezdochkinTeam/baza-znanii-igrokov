@@ -38,6 +38,7 @@
 
 * [Последние новости](last-news/main.md)
 * [🐍 2025](last-news/2025/README.md)
+  * [🍁 12 ноября](last-news/2025/12-noyabrya.md)
   * [🍁 9 ноября](last-news/2025/9-noyabrya.md)
   * [🍁 2 ноября](last-news/2025/2-noyabrya.md)
   * [🍁 28 октября](last-news/2025/28-oktyabrya.md)
