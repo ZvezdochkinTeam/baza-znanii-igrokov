@@ -24,7 +24,7 @@ coverY: 0
 
 Да, отображение этой подсказки можно отключить через [server-specific-settings.md](server-specific-settings.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption><p>Местоположение настройки</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption><p>Местоположение настройки</p></figcaption></figure>
 
 ## Можно ли настроить под себя эту подсказку ?
 
@@ -33,11 +33,9 @@ coverY: 0
 * Выравнивание текста
 * Размер текста
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Местоположение настроек</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (2).png" alt=""><figcaption><p>Местоположение настроек</p></figcaption></figure>
 
 [^1]: Система делает эту проверку раз в 1 секунду.
-
-
 
     Нет гарантий, что в последнюю секунду до старта раунда результат не изменится
 

@@ -14,24 +14,23 @@ coverY: 0
 
     1. Добавлен пункт "Вы появитесь как ..."\
        [Теперь можно заранее узнать предварительную роль, за которую вы появитесь в раунде](#user-content-fn-1)[^1]
-    2. Добавлен пункт "Роли  союзников ..."\
+    2. Добавлен пункт "Роли союзников ..."\
        [Он отображает возможные роли союзных SCP](#user-content-fn-2)[^2]
 
-    ![](../../.gitbook/assets/NVIDIA_Overlay_XA3wPvMqfg.png)\
-
+    ![](../../.gitbook/assets/NVIDIA_Overlay_XA3wPvMqfg.png)\\
 
     1. В Server-Specific появились 2 новые настройки
        1. Выравнивание текста
        2. Размер текста
 
-    <div align="center"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
+    <div align="center"><figure><img src="../../.gitbook/assets/image (3) (1) (1) (1).png" alt=""><figcaption></figcaption></figure></div>
 2.  Изменения для системы "Динамичный список игроков"
 
     1. В Server-Specific появились 2 новые настройки
        1. Шаблон списка игроков
        2. Размер текста
 
-    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 3. Изменения для системы "Автоматическая очистка"
    1. Очистка по времени более не затрагивает предметы в карманном измерении SCP-106
 4. Дополнена информация в [sistema-podbora-scp.md](../../newbies/obshii-spisok/sistema-podbora-scp.md "mention")
