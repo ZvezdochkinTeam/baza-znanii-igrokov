@@ -11,7 +11,7 @@ coverY: 0
 
 Server Specific Settings - это серверные пользовательские настройки, которые позволяют разработчикам плагинов в удобной форме взаимодействовать с игроком на сервере.
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1).png" alt=""><figcaption><p>Местоположение категории "Server-Specific"</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Местоположение категории "Server-Specific"</p></figcaption></figure>
 
 ## Как и где они хранятся ?
 
