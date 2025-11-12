@@ -2,10 +2,11 @@
 description: Правила Classic
 ---
 
-# 🍁 25 октября
+# 🏖️ 1 июля
 
 ## Изменение правил Classic
 
-[#c2.-kooperaciya](../../rules/classic.md#c2.-kooperaciya "mention") добавлено новое примечание
+Изменено правило [#c4.-neitralnye-klassy-i-bezoruzhnye-vragi](../../rules/classic.md#c4.-neitralnye-klassy-i-bezoruzhnye-vragi "mention")\
+Из описания правила было убрано понятие ''нанесение урона''.
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (26).png" alt=""><figcaption></figcaption></figure>

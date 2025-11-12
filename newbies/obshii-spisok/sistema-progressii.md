@@ -138,4 +138,5 @@ description: Уровни и статистика
 
 Вы можете настроить внешний вид этого интерфейса в пользовательских настройках ([server-specific-settings.md](server-specific-settings.md "mention"))
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Настройки внешнего вида интерфейса игрока</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Настройки внешнего вида интерфейса игрока</p></figcaption></figure>
+
