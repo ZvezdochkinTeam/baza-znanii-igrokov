@@ -6,7 +6,13 @@ description: It's spooky month!
 
 Одно из самых интересных игровых событий, которое отмечается в октября.
 
-Мы, как и разработчики игры, готовим свои собственные изменения для такого весёлого игрового события.&#x20;
+Мы, как и разработчики игры, готовим свои собственные изменения для такого весёлого игрового события.
+
+{% hint style="warning" %}
+Игровое событие с Хэллоуином завершилось **14 ноября**!
+
+Спасибо за участие 💖
+{% endhint %}
 
 ## Конфеты
 
@@ -46,13 +52,13 @@ description: It's spooky month!
 
 <figure><img src="../../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
 ### SCP-953
 
 Та самая белая смеющаяся рожа в темноте. И да - это пасхалка на SCP-953. Чтобы она появилась, нужно выполнить некоторые условия, которые я, конечно, не озвучу.
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Случайные страшные звуки
 
@@ -93,7 +99,7 @@ description: It's spooky month!
 * Игроки в ЗЛС не узнают под кого замаскировался SCP-3114.
 * SCP-3114 не успеет никому нанести ущерб в первые 20 секунд от начала раунда.
 
-<figure><img src="../../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 ### Изменения основных способностей
 
@@ -146,4 +152,4 @@ description: It's spooky month!
 
 [sistema-podbora-scp.md](sistema-podbora-scp.md "mention")
 
-<figure><img src="../../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>

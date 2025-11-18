@@ -26,7 +26,7 @@ description: Хэллоуинские страсти
 
 Также теперь подсказки этой системы можно настроить под себя с помощью [server-specific-settings.md](../../newbies/obshii-spisok/server-specific-settings.md "mention").
 
-<div align="center"><figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure></div>
+<div align="center"><figure><img src="../../.gitbook/assets/image (4) (1).png" alt=""><figcaption></figcaption></figure></div>
 
 ### Хэллоуин
 

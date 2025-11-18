@@ -44,4 +44,4 @@ description: Защита "добропорядочных игроков" от �
 
 Да, это можно сделать с помощью [server-specific-settings.md](server-specific-settings.md "mention").
 
-<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (3).png" alt=""><figcaption></figcaption></figure>
