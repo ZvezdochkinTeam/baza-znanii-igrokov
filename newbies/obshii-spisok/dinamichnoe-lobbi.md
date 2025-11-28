@@ -33,7 +33,7 @@ coverY: 0
 * Выравнивание текста
 * Размер текста
 
-<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1).png" alt=""><figcaption><p>Местоположение настроек</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4) (1) (1) (1) (2).png" alt=""><figcaption><p>Местоположение настроек</p></figcaption></figure>
 
 [^1]: Система делает эту проверку раз в 1 секунду.
 
