@@ -23,11 +23,11 @@ description: 14.0 и плагины MediumRP
 
 <figure><img src="../../.gitbook/assets/SCPSL_SZbPqN7E7y.png" alt="" width="563"><figcaption><p>Альфа Боеголовка</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/SCPSL_KQv2yD7zjy (1).png" alt="" width="563"><figcaption><p>Micro H.I.D</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCPSL_KQv2yD7zjy.png" alt="" width="563"><figcaption><p>Micro H.I.D</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/SCPSL_l6Kvwv5Q9k.png" alt="" width="563"><figcaption><p>SCP-173 (на полу)<br>SCP-1344 (закреплено за пьедесталом, а не за комнатой)</p></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/SCPSL_KfUZhXp4Pr (1).png" alt="" width="563"><figcaption><p>SCP-049</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/SCPSL_KfUZhXp4Pr.png" alt="" width="563"><figcaption><p>SCP-049</p></figcaption></figure>
 
 <figure><img src="../../.gitbook/assets/SCPSL_Wd0cGGA9ry.png" alt="" width="563"><figcaption><p>SCP-1507 (полка в GR-18)</p></figcaption></figure>
 

@@ -28,7 +28,7 @@ description: Опытное обновление
 
 После выполнения команды вы получите подробную инструкцию: вам потребуется зайти на указанный сервер и выполнить команду `.syncaccount <код>` в консоли клиента (\~).
 
-<figure><img src="../../.gitbook/assets/image (3) (1) (2).png" alt=""><figcaption><p>Пример использования команды /sync-account</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (3) (1) (1) (2).png" alt=""><figcaption><p>Пример использования команды /sync-account</p></figcaption></figure>
 
 Если все сделано верно, в ответ на внутриигровую команду вы получите сообщение об успешной привязке аккаунта.
 
@@ -116,7 +116,7 @@ description: Опытное обновление
 
 Чтобы получить данные о своей статистике, необходимо выполнить команду `/stats` одного из серверных ботов. Бот будет отображать актуальную информацию о сервере, к которому он привязан.
 
-<figure><img src="../../.gitbook/assets/image (5) (1).png" alt=""><figcaption><p>Пример использования команды /stats</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5) (1) (1).png" alt=""><figcaption><p>Пример использования команды /stats</p></figcaption></figure>
 
 ## Интерфейс игрока
 
